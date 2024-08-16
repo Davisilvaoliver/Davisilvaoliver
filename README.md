@@ -4,7 +4,7 @@
 
  - Eu estou estudando no Alura www.alura.com.br 💙
 
-- Estou desenvolvendo no Javascript ou p5j www.javascript.com www.p5j.com
+- Estou desenvolvendo no Javascript www.javascript.com
   - Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 ### Voce pode entrar em contato comigo 📫
 Email: 00001141642050sp@al.educacao.sp.gov.br 
